@@ -1,0 +1,21 @@
+body{
+  margin-left:50px;
+  margin-right:50px;
+  text-align: center;
+}
+
+.div{
+  margin: 50px;
+}
+
+.aboutdiv, .skillsdiv, .langdiv{
+  padding-top:100px;
+  padding-bottom:100px;
+  width:50%;
+  margin: 0 auto;
+}
+
+.imgdiv{
+  margin:200px;
+}
+
